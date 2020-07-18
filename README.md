@@ -1,6 +1,8 @@
 <div align="center"><h1>PythonGrapher</h1></div>
-> A Python application which reads an external CSV/Excel file and develops and displays a graph from the data.
-> Developed by C. Hans Culton under the Apache-2.0 Licence
+
+ > A Python application which reads an external CSV/Excel file and develops and displays a graph from the data.
+ 
+ > Developed by C. Hans Culton under the Apache-2.0 Licence
 
 # Libraries
 - matplotlib
