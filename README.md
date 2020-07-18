@@ -7,12 +7,11 @@
 # Libraries
 - matplotlib
 - pandas
-- seaborn
 
 # How to Use
 <div>
   <p>Specify which file to analyze in the application by assigning the file path to the <strong>file</strong> variable.</p>
   <p>Specify the data to use from the file in the pd.DataFrame function parameters.</p>
-  <p>Change the plot type by calling a different function from Seaborn</p>
+  <p>Change the plot type and what axis should display what data in plt.plot()</p>
 </div>
 
